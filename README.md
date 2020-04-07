@@ -1,4 +1,4 @@
-# localeventsapp
+# Events App User Interface
 
 A new Flutter project.
 
